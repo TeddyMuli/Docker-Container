@@ -17,7 +17,7 @@ docker pull teddymuli/node-app
 
 ## Running the docker container
 ``` bash
-docker run -d -p 3000:3000 node-app:1.0
+docker run -d -p 3000:3000 teddymuli/node-app:1.0
 ```
 
 ## Docker Commands
