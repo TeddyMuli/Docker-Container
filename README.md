@@ -8,9 +8,12 @@ My Docker Hub Profile: https://hub.docker.com/u/teddymuli
 2. Docker Desktop: https://www.docker.com/products/docker-desktop/
 
 ## Installing the docker image
+1. Pull the image
 ``` bash
 docker pull teddymuli/node-app
 ```
+2. Run the app on http://localhost:3000
+
 
 ## Running the docker container
 ``` bash
